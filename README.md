@@ -102,7 +102,6 @@ Este módulo gerencia o redirecionamento no sistema de encurtamento de URLs. Ele
 
 ## 🧪 Testes
 
-### Testando **CreateUrlLambda**
 1. Envie uma requisição **POST** para o endpoint configurado com os seguintes dados:
    ```json
    {
